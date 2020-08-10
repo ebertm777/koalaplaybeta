@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import PageDefault, { handleScroll } from '../../../components/PageDefault';
-import { Link, useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import useForm from '../../../hooks/useForm';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
@@ -45,8 +45,8 @@ const CadastroVideo = () => {
                     history.push('/');
                 });
             }}>
-                <FormField tag="input" label="Título do Vídeo" type="text" name="nome" value={values.nome} onChange={handleChange}/>
-                <FormField tag="input" label="URL do Vídeo" type="text" name="url" value={values.url} onChange={handleChange}/>
+                <FormField tag="input" label="Título do Vídeo" type="text" name="nome" value={values.nome} onChange={handleChange} />
+                <FormField tag="input" label="URL do Vídeo" type="text" name="url" value={values.url} onChange={handleChange} />
                 <FormField tag="input" label="Categoria" type="text" name="categoria" value={values.categoria} onChange={handleChange}
                     suggestions={categoryTitles}
                 />
