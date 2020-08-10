@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <Autor>
-        &copy; 2020 | Koalas RJ
+        &copy; 2020 | Koalas
       </Autor>
       <hr style={{ margin: "0 5%" }} />
       <p>
