@@ -1,4 +1,4 @@
-# Koala Play
+# Koala Play  (Criado usando JavaScrip e React)
 
 Segundo projeto simulando a interface do netflix! 
 
