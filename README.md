@@ -1,6 +1,8 @@
-# HyperFlix
+# Koala Play  (Criado usando JavaScrip e React)
 
-O intuito deste projeto é aplicar toda a didática absorvida do 
-evento da Alura Cursos Online "Imersão React".
+Segundo projeto simulando a interface do netflix! 
 
-> Projeto em construção, aguarde novas atualizações durante a semana.
+Dessa vez criado com intuito de compartilhar gameplays realizadas junto de amigos e outros conteudos
+
+
+<a href="https://imgur.com/mxYqamb"><img src="https://i.imgur.com/mxYqamb.jpg" title="source: imgur.com" /></a>
