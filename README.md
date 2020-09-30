@@ -2,7 +2,9 @@
 
 Segundo projeto simulando a interface do netflix! 
 
-Dessa vez criado com intuito de compartilhar gameplays realizadas junto de amigos e outros conteudos
+Dessa vez criado com intuito de compartilhar gameplays realizadas junto de amigos e outros conteudos.
+
+Este projeto roda na https://vercel.com/ e tem o seu backend desse projeto esta hospedado na https://heroku.com o que pode gerar um atraso no carregamento dos itens.
 
 # Veja funcionando
 https://koalaplaybeta.vercel.app/ 
