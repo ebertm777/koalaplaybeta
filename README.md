@@ -1,6 +1,7 @@
 # Koala Play  (Criado usando JavaScrip e React)
 
-Segundo projeto simulando a interface do netflix! 
+Segundo projeto simulando a interface do netflix! <br>
+[Projeto Criado durante a Imersão React da Alura]<vbr>
 
 Dessa vez criado com intuito de compartilhar gameplays realizadas junto de amigos e outros conteudos.
 
